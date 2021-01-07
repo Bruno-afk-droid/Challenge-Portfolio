@@ -1,0 +1,43 @@
+
+body{
+    margin: 0px;;
+}
+.container{
+    border:5px solid goldenrod;
+    display: inline-flex;
+    justify-content: flex-start;
+    width: 62,5%;
+    background: tomato;
+    padding:0px;
+    margin:0px;
+}
+
+.menu-item{
+    color:white;
+    font-size: 40px;
+    border:5px solid black;
+    background-color: white;
+    text-align: center;
+    text-emphasis-color: black;
+    list-style-type: none;
+    padding:10px;
+}
+
+.menu-item-selected{
+    color: blue;
+    font-size: 40px;
+    border:5px solid white;
+    background-color: blue;
+    text-align: center;
+    text-emphasis-color: white;
+    list-style-type: none;
+    padding:10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: consolas;
+    
+}
+
