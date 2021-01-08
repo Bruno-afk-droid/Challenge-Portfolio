@@ -1,6 +1,7 @@
 
 body{
-    margin: 0px;;
+    margin: 0px;
+    background-color: black;
 }
 .container{
     border:5px solid goldenrod;
@@ -32,6 +33,14 @@ body{
     text-emphasis-color: white;
     list-style-type: none;
     padding:10px;
+}
+
+h2{
+    color: goldenrod;
+}
+
+h1{
+    color: goldenrod;
 }
 
 a{

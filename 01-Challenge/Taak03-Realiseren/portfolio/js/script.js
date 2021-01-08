@@ -2,10 +2,9 @@
         
 let persoon = {
     voornaam : prompt("Wat is je naam?"),
-    achternaam : prompt("Wat is je achternaam?"),
-    leeftijd : prompt("Wat is je leeftijd?"),
-    woonplaats: prompt("waar is je woonplaats?")
+    leeftijd : prompt("Wat is je leeftijd")
 };
+
 
 let menu = {
     about : "menu-item",
@@ -27,5 +26,11 @@ let menu = {
 
     
 };
+
+function action(){
+if(persoon.leeftijd>=18)this.document.getElementById("Welkom").style.backgroundColor = "green";
+if(persoon.leeftijd<=18)this.document.getElementById("Welkom").style.backgroundColor = "red";
+}
+
 
 
