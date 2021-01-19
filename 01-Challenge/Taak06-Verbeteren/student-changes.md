@@ -4,4 +4,4 @@ Welke verbeteringen heb je op basis van de gevonden issues en feedback doorgevoe
 
 1. Pagina project overzicht aangepast met tekst over toekomstige projecten.
 2. Spelfouten verbeterd
-3. ...
+3. De style van het letter type aangepast 

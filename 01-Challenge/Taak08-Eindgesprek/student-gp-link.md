@@ -1,7 +1,7 @@
 # Link naar je Github Pages
 
-Student : `studentnaam`
+Student : `Bruno Hofman`
 
-Klas    : `klascode`
+Klas    : `LCTAOO0A`
 
-Link    : [github_username.github.io](github_username.github.io)
+Link    : https://bruno-afk-droid.github.io/Challenge-Portfolio/01-Challenge/Taak03-Realiseren/      portfolio/index.html
